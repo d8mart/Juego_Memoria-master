@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PrimeraPrueba</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="b1">b1</string>
+    <string name="b2">b2</string>
+    <string name="b3">b3</string>
+    <string name="b4">b4</string>
+    <string name="b5">b5</string>
+    <string name="b6">b6</string>
+    <string name="b7">b7</string>
+    <string name="b8">b8</string>
+    <string name="b9">b9</string>
+    <string name="b10">b10</string>
+    <string name="b11">b11</string>
+    <string name="b12">b12</string>
+    <string name="b13">b13</string>
+    <string name="b14">b14</string>
+    <string name="b15">b15</string>
+    <string name="b16">b16</string>
+    <string name="toca_carta">Toca una carta de arriba</string>
+</resources>
